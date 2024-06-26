@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pawan-bhandare14
+- 👋 Hi, I’m @pawan-bhandare
 - 👀 I’m interested in backend development withPython. 
 - 🌱 I’m currently learning web development andDjango. 
 - 💞️ I’m looking to collaborate on open source with Python 
